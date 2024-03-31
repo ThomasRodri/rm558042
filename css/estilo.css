@@ -14,11 +14,12 @@
 
     /*Seletores de tipo*/
     h1 {
-        color: blueviolet;
+        color: red;
         text-align: center;
     }
 
     #cabecalho{
+        background-color: blue;
         background-image: url("../imagens/banner-css.png");
         background-repeat: no-repeat;
         background-size: contain;
@@ -66,4 +67,6 @@
         list-style-type: none;
         text-align: center;
     }
+
     
+
