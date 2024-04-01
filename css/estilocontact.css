@@ -1,8 +1,4 @@
-#cabecalho{
-    background-color: blue;
-    }
-   
-    h1, h2 {
+     h1, h2 {
         font-family: serif;
       }
       
@@ -17,4 +13,9 @@
 
       p {
         color: green;
+      }
+
+      form button {
+        background-color: blue;
+        color: white;
       }
