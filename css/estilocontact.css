@@ -1,9 +1,18 @@
 #cabecalho{
     background-color: blue;
     }
+   
     h1, h2 {
         font-family: serif;
       }
+      
       #container{
         padding: 20px;
       }
+    
+      form {
+        border: 1px solid grey; 
+        padding: 10px; 
+      }
+
+     
